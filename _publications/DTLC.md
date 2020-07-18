@@ -1,7 +1,7 @@
 ---
 title: "Discriminative Transfer Feature and Label Consistency for Cross-Domain Image Classification"
 collection: publications
-permalink: /files/DTLC.pdf
+permalink: /files/journal/DTLC.pdf
 excerpt: 'a shallow method for domain adaptation'
 date: 2020-1-7
 venue: 'Journal'

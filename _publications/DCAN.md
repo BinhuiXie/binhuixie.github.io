@@ -1,7 +1,7 @@
 ---
 title: "Domain Conditioned Adaptation Network"
 collection: publications
-permalink: /files/DCAN.pdf
+permalink: /files/aaai2020/DCAN.pdf
 excerpt: ' This paper aims to excite distinct convolutional channels with a domain conditioned channel attention mechanism.'
 date: 2020-2-7
 venue: 'New York'

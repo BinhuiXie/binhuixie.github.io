@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Binhui Xie"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Binhui Xie (谢斌辉)"
 description              : &description "personal description"
 url                      : https://binhuixie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
