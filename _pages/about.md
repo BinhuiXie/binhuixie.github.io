@@ -11,3 +11,8 @@ redirect_from:
 
 I am a graduate student  in School of Computer Science and Technology, Beijing Institute of Technology. My research interests are deep learning and transfer learning (including domain adaptation).
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
