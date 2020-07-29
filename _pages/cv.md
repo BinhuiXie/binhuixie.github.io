@@ -9,21 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Beijing Institute of Technology, Sep. 2015 - Jun. 2019
-* M.S. in Beijing Institute of Technology, Sep. 2019 - Jun. 2022 (expected)
-
-  
-Skills
-======
-* Programming
-  * C++, Java, Python
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Here is my [Curriculum Vitae](https://binhuixie.github.io/files/binhui_xie_cv.pdf).
   
  

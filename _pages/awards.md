@@ -9,21 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Awards
 ======
-* B.S. in Beijing Institute of Technology, Sep. 2015 - Jun. 2019
-* M.S. in Beijing Institute of Technology, Sep. 2019 - Jun. 2022 (expected)
-
-  
-Skills
-======
-* Programming
-  * C++, Java, Python
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- 
+* Outstanding Graduate, Beijing Institute of Technology, 2019.
+* JJworld Scholarship (RMB Y5000 per year), JJWorld (Beijing) Network Technology Co.,LTD, 2017.

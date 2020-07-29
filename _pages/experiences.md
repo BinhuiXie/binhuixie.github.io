@@ -9,21 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Research
 ======
-* B.S. in Beijing Institute of Technology, Sep. 2015 - Jun. 2019
-* M.S. in Beijing Institute of Technology, Sep. 2019 - Jun. 2022 (expected)
+* Lab of Intelligent and Network Computing, Beijing Institute of Technology, Beijing, China, Oct 2019 - present
+** Research on domain adaptation algorithms for image classification and semantic segmentation tasks.
 
-  
+Engineering
+======
+* Chengdu Neusoft University, Chengdu, China, Jun 2016 - Jul 2016
+** Java: Complete application development course by Chengdu Neusoft University. Implement Timetable app using Android Studio. Excel in communication and teamwork at start-up companies.
+ 
 Skills
 ======
-* Programming
-  * C++, Java, Python
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- 
+* Prog. Lang.: Python, C/C++, Java, Matlab, LATEX, HTML, Markdown
+* Deep Learning: Pytorch, Tensorflow, Caffe
+* Library: Numpy, Scikit-learn, Matplotlib, requests, beautifulsoup
