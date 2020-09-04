@@ -13,7 +13,7 @@ redirect_from:
 
 ## Professional Activities
 
-- PC Member | Reviewer
+- PC Member or Reviewer
   - AAAI
 
 
