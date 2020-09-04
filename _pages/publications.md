@@ -18,7 +18,7 @@ ACM International Conference on Multimedia 2020. **MM'20**.
 
 
 
-<b>[Domain Conditioned Adaptation Network](https://binhuixie.github.io/publications/aaai20-dcan)</b>  <br>Shuang Li, Chi Harold Liu, **Binhui Xie**, Qiuxia Lin, Zhengming Ding, Gao Huang, and Jian Tang
+<b>[Domain Conditioned Adaptation Network](https://binhuixie.github.io/publications/aaai20-dcan)</b>  <br>Shuang Li, Chi Harold Liu, Qiuxia Lin, **Binhui Xie**, Zhengming Ding, Gao Huang, and Jian Tang
 AAAI Conference on Artificial Intelligence 2020. **AAAI 2020**.
 
 [[Paper]](https://aaai.org/ojs/index.php/AAAI/article/view/6801/6655) [[Code]](https://github.com/BIT-DA/DCAN)
