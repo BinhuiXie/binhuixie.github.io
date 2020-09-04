@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/tnnls-dtlc
 date: 2020-1-7
 venue: "IEEE Transactions on Neural Networks and Learning Systems"
-citation: "Shuang Li, Chi Harold Liu, Limin Su, **Binhui Xie**, Zhengming Ding, C. L. Philip Chen, and Dapeng Wu. Discriminative Transfer Feature and Label Consistency for Cross-Domain Image Classification. IEEE Transactions on Neural Networks and Learning Systems. doi: 10.1109/TNNLS.2019.2958152."
+citation: "Shuang Li, Chi Harold Liu, Limin Su, Binhui Xie, Zhengming Ding, C. L. Philip Chen, and Dapeng Wu. Discriminative Transfer Feature and Label Consistency for Cross-Domain Image Classification. IEEE Transactions on Neural Networks and Learning Systems. doi: 10.1109/TNNLS.2019.2958152."
 
 
 ---
