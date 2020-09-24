@@ -7,7 +7,7 @@ venue: "ACM International Conference on Multimedia 2019"
 citation: "Shuang Li, Chi Harold Liu, Binhui Xie, Limin Su, Zhengming Ding, and Gao Huang. Joint adversarial domain adaptation. In ACM MM, pages 729–737. ACM, 2019."
 ---
 
-[[Paper]](https://dl.acm.org/doi/10.1145/3343031.3351070) [[code]]()
+[[Paper]](https://dl.acm.org/doi/10.1145/3343031.3351070) [[code]](https://github.com/BIT-DA/JADA)
 
 ## Abstract
 

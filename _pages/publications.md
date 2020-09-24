@@ -35,7 +35,7 @@ IEEE Transactions on Neural Networks and Learning Systems. **TNNLS**.
 <b>[Joint Adversarial Domain Adaptation](https://binhuixie.github.io/publications/mm19-jada)</b>  <br>Shuang Li, Chi Harold Liu, **Binhui Xie**, Limin Su, GaoHuang, and Zhengming Ding
 ACM International Conference on Multimedia 2019. **MM'19**.
 
-[[Paper]](https://dl.acm.org/doi/10.1145/3343031.3351070) [[code]]()
+[[Paper]](https://dl.acm.org/doi/10.1145/3343031.3351070) [[code]](https://github.com/BIT-DA/JADA)
 
 
 

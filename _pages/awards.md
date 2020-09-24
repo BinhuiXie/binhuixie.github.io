@@ -12,4 +12,3 @@ redirect_from:
 Awards
 ======
 * Outstanding Graduate, Beijing Institute of Technology, 2019.
-* JJworld Scholarship, JJWorld (Beijing) Network Technology Co.,LTD, 2017.

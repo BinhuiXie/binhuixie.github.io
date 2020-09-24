@@ -34,7 +34,6 @@ redirect_from:
 
 ## Skills
 
-* Prog. Lang.: Python, C/C++, Java, Matlab, $\LaTeX$
+* Prog. Lang.: Python, C/C++, $\LaTeX$
 * Deep Learning: Pytorch
-* Library: Numpy, Scikit-learn, Matplotlib.
 
