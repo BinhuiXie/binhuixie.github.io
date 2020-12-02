@@ -10,6 +10,11 @@ author_profile: true
 {% endif %}
 
 
+<b>[Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation](https://binhuixie.github.io/publications/aaai21-bcdm)</b>  <br>Shuang Li, Fangrui Lv, **Binhui Xie**, Chi Harold Liu, Jian Liang, and Chen Qin
+AAAI Conference on Artificial Intelligence 2021. **AAAI 2021**.
+
+[[Paper]]() [[Code]](https://github.com/BIT-DA/BCDM)
+
 
 <b>[Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation](https://binhuixie.github.io/publications/mm20-ssan)</b>  <br>Shuang Li, **Binhui Xie**, Jiashu Wu, Ying Zhao, Chi Harold Liu, and Zhengming Ding
 ACM International Conference on Multimedia 2020. **MM'20**.

@@ -1,0 +1,18 @@
+---
+title: "Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation"
+collection: publications
+permalink: /publications/aaai20-dcan
+date: 2021-2-2
+venue: "AAAI Conference on Artificial Intelligence 2021"
+citation: "Shuang Li, Fangrui Lv, Binhui Xie, Chi Harold Liu, Jian Liang, and Chen Qin. Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation. In AAAI, 2020."
+
+
+---
+
+[[Paper]]() [[Code]](https://github.com/BIT-DA/BCDM)
+
+
+
+## Abstract
+
+Unsupervised domain adaptation challenges the problem of transferring knowledge from a well-labelled source domain to an unlabelled target domain. Recently, adversarial learning with bi-classifier has been proven effective in pushing cross-domain distribution close. Prior approaches typically leverage the disagreement between bi-classifier to learn transferable representations, however, they often neglect the classifier determinacy in the target domain, which could result in a lack of feature discriminability. In this paper, we present a simple yet effective method, namely Bi-Classifier Determinacy Maximization (BCDM), to tackle this problem. Motivated by the observation that target samples cannot always be separated distinctly by the decision boundary, here in the proposed BCDM, we design a novel classifier determinacy disparity (CDD) metric, which formulates classifier discrepancy as the class relevance of distinct target predictions and implicitly introduces constraint on the target feature discriminability. To this end, the BCDM can generate discriminative representations by encouraging target predictive outputs to be consistent and determined, meanwhile, preserve the diversity of predictions in an adversarial manner. Furthermore, the properties of CDD as well as the theoretical guarantees of BCDM's generalization bound are both elaborated. Extensive experiments show that BCDM compares favorably against the existing state-of-the-art domain adaptation metnods.
