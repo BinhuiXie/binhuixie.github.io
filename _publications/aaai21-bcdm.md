@@ -1,7 +1,7 @@
 ---
 title: "Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation"
 collection: publications
-permalink: /publications/aaai20-dcan
+permalink: /publications/aaai21-bcdm
 date: 2021-2-2
 venue: "AAAI Conference on Artificial Intelligence 2021"
 citation: "Shuang Li, Fangrui Lv, Binhui Xie, Chi Harold Liu, Jian Liang, and Chen Qin. Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation. In AAAI, 2020."
