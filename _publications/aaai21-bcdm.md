@@ -9,7 +9,7 @@ citation: "Shuang Li, Fangrui Lv, Binhui Xie, Chi Harold Liu, Jian Liang, and Ch
 
 ---
 
-[[Paper]]() [[Code]](https://github.com/BIT-DA/BCDM)
+[[Paper]](https://arxiv.org/abs/2012.06995) [[Code]](https://github.com/BIT-DA/BCDM)
 
 
 

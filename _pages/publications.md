@@ -9,11 +9,17 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<b>[Generalized Domain Conditioned Adaptation Network](https://binhuixie.github.io/publications/tpami-gdcan)</b>  <br>Shuang Li, **Binhui Xie**, Qiuxia Lin, Chi Harold Liu, Gao Huang and Guoren Wang
+IEEE Transactions on Pattern Analysis and Machine Intelligence. **T-PAMI**.
+
+[[Paper]]() [[Code]](https://github.com/BIT-DA/GDCAN)
+
+
 
 <b>[Bi-Classifier Determinacy Maximization for Unsupervised Domain Adaptation](https://binhuixie.github.io/publications/aaai21-bcdm)</b>  <br>Shuang Li, Fangrui Lv, **Binhui Xie**, Chi Harold Liu, Jian Liang, and Chen Qin
 AAAI Conference on Artificial Intelligence 2021. **AAAI 2021**.
 
-[[Paper]]() [[Code]](https://github.com/BIT-DA/BCDM)
+[[Paper]](https://arxiv.org/abs/2012.06995) [[Code]](https://github.com/BIT-DA/BCDM)
 
 
 <b>[Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation](https://binhuixie.github.io/publications/mm20-ssan)</b>  <br>Shuang Li, **Binhui Xie**, Jiashu Wu, Ying Zhao, Chi Harold Liu, and Zhengming Ding

@@ -4,8 +4,7 @@ collection: publications
 permalink: /publications/mm20-ssan
 date: 2020-10-12
 venue: "ACM International Conference on Multimedia 2020"
-citation: "Shuang Li, Binhui Xie, Jiashu Wu, Ying Zhao, Chi Harold Liu, and Zhengming Ding. Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation. In ACM Multimedia. ACM, 2020."
-
+citation: "Shuang Li, Binhui Xie, Jiashu Wu, Ying Zhao, Chi Harold Liu, and Zhengming Ding. Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation. In ACM MM, pages 3866-3874. ACM, 2020."
 ---
 
 [[Paper]](https://arxiv.org/abs/2008.01677) [[Code]](https://github.com/BIT-DA/SSAN)
