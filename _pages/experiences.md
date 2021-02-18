@@ -14,7 +14,7 @@ redirect_from:
 ## Professional Activities
 
 - PC Member or Reviewer
-  - AAAI, CVPR
+  - CVPR, ICCV, AAAI
 
 
 
