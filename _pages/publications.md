@@ -12,7 +12,7 @@ author_profile: true
 <b>[Generalized Domain Conditioned Adaptation Network](https://binhuixie.github.io/publications/tpami-gdcan)</b>  <br>Shuang Li, **Binhui Xie**, Qiuxia Lin, Chi Harold Liu, Gao Huang and Guoren Wang
 IEEE Transactions on Pattern Analysis and Machine Intelligence. **T-PAMI**.
 
-[[Paper]]() [[Code]](https://github.com/BIT-DA/GDCAN)
+[[Paper]](https://ieeexplore.ieee.org/document/9366353) [[Code]](https://github.com/BIT-DA/GDCAN)
 
 
 
