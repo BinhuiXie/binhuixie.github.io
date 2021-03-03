@@ -1,14 +1,14 @@
 ---
 title: "Generalized Domain Conditioned Adaptation Network"
 collection: publications
-permalink: /publications/pami-gdcan
-date: 2021-2-18
+permalink: /publications/tpami-gdcan
+date: 2021-3-1
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)"
 citation: "Shuang Li, Binhui Xie, Qiuxia Lin, Chi Harold Liu, Gao Huang and Guoren Wang. Generalized Domain Conditioned Adaptation Network. In IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2021."
 
 ---
 
-[[Paper]]() [[Code]](https://github.com/BIT-DA/GDCAN)
+[[Paper]](https://ieeexplore.ieee.org/document/9366353) [[Code]](https://github.com/BIT-DA/GDCAN)
 
 
 
