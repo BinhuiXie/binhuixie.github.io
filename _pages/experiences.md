@@ -13,8 +13,10 @@ redirect_from:
 
 ## Professional Activities
 
-- PC Member or Reviewer
-  - AAAI, CVPR
+- Review services
+  - Computer Vision and Pattern Recognition (CVPR)
+  - International Conference on Computer Vision (ICCV)
+  - AAAI Conference on Artificial Intelligence (AAAI)
 
 
 
@@ -25,15 +27,8 @@ redirect_from:
 
 
 
-## Engineering
-
-* Chengdu Neusoft University, Chengdu, China, Jun 2016 - Jul 2016
-    * Java: Complete application development course by Chengdu Neusoft University. Implement Timetable app using Android Studio. Excel in communication and teamwork at start-up companies.
-
-
-
 ## Skills
 
 * Prog. Lang.: Python, C/C++, $\LaTeX$
-* Deep Learning: Pytorch
+* Deep Learning: PyTorch, TensorFlow
 
