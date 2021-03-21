@@ -11,14 +11,11 @@ redirect_from:
 
 
 
-## Professional Activities
+## Review services
 
-- Review services
-  - Computer Vision and Pattern Recognition (CVPR)
-  - International Conference on Computer Vision (ICCV)
-  - AAAI Conference on Artificial Intelligence (AAAI)
-
-
+- Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Computer Vision (ICCV)
+- AAAI Conference on Artificial Intelligence (AAAI)
 
 ## Research
 
@@ -30,5 +27,5 @@ redirect_from:
 ## Skills
 
 * Prog. Lang.: Python, C/C++, $\LaTeX$
-* Deep Learning: PyTorch, TensorFlow
+* Deep Learning: PyTorch
 
